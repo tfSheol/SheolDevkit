@@ -1,3 +1,4 @@
+![alt text](http://sheol.fr/images/logo.png "Sheol")
 # [Windows] SDK (Sheol Developer Kit)
 ### Composition du SDK
 * MinGW: un environnement de développement minimaliste pour les applications natives de Microsoft Windows.
@@ -10,7 +11,7 @@
 	rm, make, g++ ou encore gcc.
 	
 ### Important
-Un projet équivaut à un dossier ! Consultez le [Changelog](./src/8226285c6d375e06a2f70210b27288812e6bd70d/CHANGELOG.md "Changelog").
+Un projet équivaut à un dossier ! Consultez le [Changelog](https://bitbucket.org/tfSheol/sdk/src/0808f5c636f30e078a14f54ab2bb928f1089d039/CHANGELOG.md?at=master "Changelog").
 
 ### Raccourcis du SDK
 * F9: compile notre projet en utilisant notre Makefile, équivalent ŕ la commande "Make"

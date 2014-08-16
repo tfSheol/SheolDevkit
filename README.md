@@ -10,7 +10,7 @@
 	rm, make, g++ ou encore gcc.
 	
 ### Important
-Un projet équivaut à un dossier !
+Un projet équivaut à un dossier ! Consultez le [Changelog](./CHANGELOG.md "Changelog")Consultez le.
 
 ### Raccourcis du SDK
 * F9: compile notre projet en utilisant notre Makefile, équivalent ŕ la commande "Make"
@@ -21,12 +21,12 @@ Un projet équivaut à un dossier !
 ### Scripts du SDK
 Tous les scripts du SDK sont disponibles dans : Plugins->NppExec->(en bas du menu)
 ```
-* Make
-* Make re
-* Make fclean
-* Make clean
-* Compile one C File
-* Compile one C++ File
-* Execute Compiled File by Make
-* Execute Compiled File only
+Make
+Make re
+Make fclean
+Make clean
+Compile one C File
+Compile one C++ File
+Execute Compiled File by Make
+Execute Compiled File only
 ```

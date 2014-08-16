@@ -11,7 +11,7 @@
 	rm, make, g++ ou encore gcc.
 ________________
 ### Important
-Un projet équivaut à un dossier ! Consultez le [Changelog](https://bitbucket.org/tfSheol/sdk/src/0808f5c636f30e078a14f54ab2bb928f1089d039/CHANGELOG.md?at=master "Changelog").
+Un projet équivaut à un dossier ! Consultez le [Changelog](https://bitbucket.org/tfSheol/sdk/src/77d1cde03cc75bb22e1472cabaf496698b46335a/CHANGELOG.md?at=master "Changelog").
 ________________
 ### Raccourcis du SDK
 * F9: compile notre projet en utilisant notre Makefile, équivalent à la commande "Make"

@@ -1,4 +1,4 @@
-![alt text](http://sheol.fr/images/logo_black.png "Sheol")
+![alt text](http://sheol.fr/images/upload/sdk1.png "Sheol")
 # [Windows] SDK (Sheol Developer Kit)
 ### Composition du SDK
 * MinGW: un environnement de développement minimaliste pour les applications natives de Microsoft Windows.
@@ -14,10 +14,21 @@
 Un projet équivaut à un dossier ! Consultez le [Changelog](https://bitbucket.org/tfSheol/sdk/src/0808f5c636f30e078a14f54ab2bb928f1089d039/CHANGELOG.md?at=master "Changelog").
 
 ### Raccourcis du SDK
-* F9: compile notre projet en utilisant notre Makefile, équivalent ŕ la commande "Make"
+* F9: compile notre projet en utilisant notre Makefile, équivalent à la commande "Make"
 	(example disponible dans "test_code").
 * ctrl + F9: compile également le projet avec un Maekfile mais est équivalent ŕ un "Make re"
-* F5: permet de lancer notre programme, une boite de dialogue permet de spécifier le binaire ŕ lancer.
+* F5: permet de lancer notre programme, une boite de dialogue permet de spécifier le binaire à lancer.
+
+### Menu contextuel
+* Make
+* Make re
+* Make fclean
+* Make clean
+_______________
+* Compile one C File
+* Compile one C++ File
+________________
+* Execute this compiled File
 
 ### Scripts du SDK
 Tous les scripts du SDK sont disponibles dans : Plugins->NppExec->(en bas du menu)

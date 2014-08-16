@@ -10,7 +10,7 @@
 	rm, make, g++ ou encore gcc.
 	
 ### Important
-Un projet équivaut à un dossier ! Consultez le [Changelog](./8226285c6d375e06a2f70210b27288812e6bd70d/CHANGELOG.md "Changelog").
+Un projet équivaut à un dossier ! Consultez le [Changelog](./src/8226285c6d375e06a2f70210b27288812e6bd70d/CHANGELOG.md "Changelog").
 
 ### Raccourcis du SDK
 * F9: compile notre projet en utilisant notre Makefile, équivalent ŕ la commande "Make"

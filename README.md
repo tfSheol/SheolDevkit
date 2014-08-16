@@ -1,4 +1,4 @@
-![alt text](http://sheol.fr/images/logo.png "Sheol")
+![alt text](http://sheol.fr/images/logo_black.png "Sheol")
 # [Windows] SDK (Sheol Developer Kit)
 ### Composition du SDK
 * MinGW: un environnement de développement minimaliste pour les applications natives de Microsoft Windows.
